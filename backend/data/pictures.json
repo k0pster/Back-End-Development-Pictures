@@ -1,17 +1,9 @@
 [
     {
-        "id": 1,
-        "pic_url": "http://dummyimage.com/136x100.png/5fa2dd/ffffff",
-        "event_country": "United States",
-        "event_state": "District of Columbia",
-        "event_city": "Washington",
-        "event_date": "11/16/2022"
-    },
-    {
         "id": 2,
         "pic_url": "http://dummyimage.com/230x100.png/dddddd/000000",
         "event_country": "United States",
-        "event_state": "Florida",
+        "event_state": "*Florida",
         "event_city": "Naples",
         "event_date": "11/2/2022"
     },
@@ -78,5 +70,13 @@
         "event_state": "Florida",
         "event_city": "Miami Beach",
         "event_date": "11/19/2022"
+    },
+    {
+        "id": 200,
+        "pic_url": "http://dummyimage.com/230x100.png/dddddd/000000",
+        "event_country": "United States",
+        "event_state": "California",
+        "event_city": "Fremont",
+        "event_date": "11/2/2030"
     }
 ]
